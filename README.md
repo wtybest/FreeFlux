@@ -6,6 +6,8 @@
 
 S-lab, Nanyang Technological University;  Microsoft GenAI
 
-**Leveraging the layer-specific roles in RoPE-based MMDiT we discovered, versatile training-free image editing is tailored to different task characteristics, including non-rigid editing, object addition, background replacement, object movement, and outpainting.**
+> This repository hosts the official PyTorch implementation of the paper: "**FreeFlux: Understanding and Exploiting Layer-Specific Roles in RoPE-Based MMDiT for Versatile Image Editing**".
 
 ![teaser](./assets/teaser.jpg)
+
+**Leveraging the layer-specific roles in RoPE-based MMDiT we discovered, versatile training-free image editing is tailored to different task characteristics, including non-rigid editing, object addition, background replacement, object movement, and outpainting.**

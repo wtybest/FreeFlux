@@ -4,7 +4,7 @@
 <a href="https://arxiv.org/abs/2503.16153"><img src="https://img.shields.io/badge/Paper-ICCV2025-blue.svg"></a>
 <a href="https://wtybest.github.io/projects/FreeFlux/"><img src="https://img.shields.io/badge/Project-Page-red.svg"></a>
 
-**[Tianyi Wei](https://scholar.google.com/citations?user=-wfXmM4AAAAJ&hl=en) &emsp; [Yifan Zhou](https://zhouyifan.net/) &emsp; [Dongdong Chen](https://www.dongdongchen.bid/) &emsp; [Xingang Pan](https://xingangpan.github.io)**
+**[Tianyi Wei](https://wtybest.github.io) &emsp; [Yifan Zhou](https://zhouyifan.net/) &emsp; [Dongdong Chen](https://www.dongdongchen.bid/) &emsp; [Xingang Pan](https://xingangpan.github.io)**
 
 S-lab, Nanyang Technological University;  Microsoft GenAI
 
